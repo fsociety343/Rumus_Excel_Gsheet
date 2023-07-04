@@ -1,2 +1,2 @@
-# rumus_excel_count
-Catatan rumus excel biar bisa autoscript count
+# rumus_excel_gsheet
+Catatan rumus excel dan gsheet biar bisa autoscript
